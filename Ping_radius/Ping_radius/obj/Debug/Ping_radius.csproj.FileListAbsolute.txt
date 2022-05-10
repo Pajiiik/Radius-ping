@@ -1,0 +1,11 @@
+C:\Users\StulhoferP\source\repos\Ping_radius\Ping_radius\bin\Debug\Ping_radius.exe.config
+C:\Users\StulhoferP\source\repos\Ping_radius\Ping_radius\bin\Debug\Ping_radius.exe
+C:\Users\StulhoferP\source\repos\Ping_radius\Ping_radius\bin\Debug\Ping_radius.pdb
+C:\Users\StulhoferP\source\repos\Ping_radius\Ping_radius\obj\Debug\Ping_radius.csproj.AssemblyReference.cache
+C:\Users\StulhoferP\source\repos\Ping_radius\Ping_radius\obj\Debug\Ping_radius.csproj.SuggestedBindingRedirects.cache
+C:\Users\StulhoferP\source\repos\Ping_radius\Ping_radius\obj\Debug\Ping_radius.Form1.resources
+C:\Users\StulhoferP\source\repos\Ping_radius\Ping_radius\obj\Debug\Ping_radius.Properties.Resources.resources
+C:\Users\StulhoferP\source\repos\Ping_radius\Ping_radius\obj\Debug\Ping_radius.csproj.GenerateResource.cache
+C:\Users\StulhoferP\source\repos\Ping_radius\Ping_radius\obj\Debug\Ping_radius.csproj.CoreCompileInputs.cache
+C:\Users\StulhoferP\source\repos\Ping_radius\Ping_radius\obj\Debug\Ping_radius.exe
+C:\Users\StulhoferP\source\repos\Ping_radius\Ping_radius\obj\Debug\Ping_radius.pdb
